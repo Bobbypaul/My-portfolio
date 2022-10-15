@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/My-portfolio/static/css/main.7c61b430.css",
+    "main.js": "/My-portfolio/static/js/main.145681ef.js",
+    "static/media/MeCarton.png": "/My-portfolio/static/media/MeCarton.9f6a15171d84cb972cc3.png",
+    "static/media/crypto.jpg": "/My-portfolio/static/media/crypto.ab69855af495622773dd.jpg",
+    "static/media/country-dark.jpg": "/My-portfolio/static/media/country-dark.6b666592ca75e895bbb5.jpg",
+    "static/media/MeOriginal.png": "/My-portfolio/static/media/MeOriginal.a91e8257efacf816d5c7.png",
+    "static/media/space.jpg": "/My-portfolio/static/media/space.3698ffe95b4d7ab759aa.jpg",
+    "static/media/nike-dark.jpg": "/My-portfolio/static/media/nike-dark.a579f50b51b4fa9f03bd.jpg",
+    "index.html": "/My-portfolio/index.html",
+    "main.7c61b430.css.map": "/My-portfolio/static/css/main.7c61b430.css.map",
+    "main.145681ef.js.map": "/My-portfolio/static/js/main.145681ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c61b430.css",
+    "static/js/main.145681ef.js"
+  ]
+}
